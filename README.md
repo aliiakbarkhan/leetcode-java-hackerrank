@@ -1,7 +1,10 @@
-
 # 🚀 Java HackerRank Hustle: Crack the Code Like a Pro 💡
 
 Welcome to the **Java HackerRank Quest**—your ultimate guide to conquering coding challenges with style! 🌟
+
+## All Rights Reserved.
+This repository and its contents are copyrighted. No part of this repository may be reproduced, distributed, or used without explicit permission from the owner.
+
 
 ## What's Inside? 🔍
 
