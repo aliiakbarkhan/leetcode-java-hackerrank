@@ -3,8 +3,6 @@
 
 Welcome to the **Java HackerRank Quest**—your ultimate guide to conquering coding challenges with style! 
 
-## All Rights Reserved.
-This repository and its contents are copyrighted. No part of this repository may be reproduced, distributed, or used without explicit permission from the owner.
 
 
 ## What's Inside? 
@@ -21,4 +19,7 @@ Level up with curated HackerRank questions and solutions, designed to boost your
 
 Clone the repo, dive into the challenges, and show the coding world what you’ve got. Let’s make coding magic happen! 
 
----
+
+## All Rights Reserved.
+
+https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
